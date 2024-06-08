@@ -7,16 +7,15 @@
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
- 👋 Hi, My ID is [AabyssZG](https://twitter.com/AabyssZG), 你可以叫我曾哥
-- 👀 I'm good at 云安全、红蓝攻防和渗透测试
-- 🌱 I'm currently learning 区块链、DevSecOps
-- 📫 日常活跃于各大平台, 推特ID [@AabyssZG](https://twitter.com/AabyssZG)
-- 👋 My Blog: [https://blog.zgsec.cn](https://blog.zgsec.cn)
-- 🌱 JetBrains OSS Developer（使用JetBrains开源许可证）
-- 💞️ 感谢Github开源社区，感谢JetBrains对 `Open source code` 做出的贡献
+ 👋 Hi, My ID is [yyyr]你可以叫我安哥
+- 👀 I'm good at 网络安全、红蓝攻防和渗透测试
+- 🌱 I'm currently learning 大数据、SRC
+- 📫 日常活跃于各大平台,
+- 👋 My Blog: [https://www.yyyrlovelsw.top/]
+- 💞️ 感谢Github开源社区
 
 
--   <a href="https://blog.csdn.net/qq_47406280?spm=1000.2115.3001.5343"><code><img height="20" width="50" src=""></code></a>：csdn优秀作者，发表了 30 篇技术文章，15万阅读。
+-   <a href="https://blog.csdn.net/qq_47406280?spm=1000.2115.3001.5343"><code></code></a>：csdn优秀作者，发表了 30 篇技术文章，15万阅读。
 
 ### **技术栈:**
 
