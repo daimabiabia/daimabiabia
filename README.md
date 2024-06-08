@@ -1,4 +1,3 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 ## 渗透测试工程师-亦悠悠然
 
 热爱网络、热爱技术。喜欢打游戏。
