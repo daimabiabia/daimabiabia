@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://blog.csdn.net/qq_47406280?spm=1000.2115.3001.5343"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
+-   <a href="https://blog.csdn.net/qq_47406280?spm=1000.2115.3001.5343"><code><img height="20" width="50" src="RIFF*C"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
 
 ### **技术栈:**
 
