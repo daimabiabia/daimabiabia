@@ -1,39 +1,20 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
-
 ## 渗透测试工程师-亦悠悠然
 
-热爱前端、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论。
+热爱网络、热爱技术。喜欢打游戏。
 
 ### **社交主页：**
-
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
- 👋 Hi, My ID is [yyyr]你可以叫我安哥
+- 👋 Hi, My ID is [yyyr]你可以叫我安哥
 - 👀 I'm good at 网络安全、红蓝攻防和渗透测试
 - 🌱 I'm currently learning 大数据、SRC
 - 📫 日常活跃于各大平台,
 - 👋 My Blog: [https://www.yyyrlovelsw.top/]
 - 💞️ 感谢Github开源社区
 
-
--   <a href="https://blog.csdn.net/qq_47406280?spm=1000.2115.3001.5343"><code></code></a>：csdn优秀作者，发表了 30 篇技术文章，15万阅读。
-
 ### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="./images/react.svg"></code></a>
-<a href="https://nextjs.org/"><code><img height="20" src="./images/next.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="./images/webpack.svg"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://sass-lang.com"><code><img height="20" src="./images/sass2.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
-<a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+[![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,idea,go,aws,cloudflare,gcp,linux,raspberrypi,docker,kubernetes,bash,php,html,js,androidstudio,cpp,c,git,githubactions,md,mysql,redis,arduino,ps,pr,twitter)](https://skillicons.dev)
 
-### 开源项目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
-<br><br><br>
 
 ### Github 活跃度
 
